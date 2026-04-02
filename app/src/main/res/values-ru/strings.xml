@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Мой Питер</string>
+    <string name="nav_categories">Интересные места</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="nav_about">О приложении</string>
+
+
+    <string name="cat_parks">Парки и сады</string>
+    <string name="cat_museums">Музеи и галереи</string>
+    <string name="cat_food">Где поесть</string>
+
+
+    <string name="park_1_name">Петергоф</string>
+    <string name="park_1_desc">Всемирно известный дворцово-парковый ансамбль с фонтанами на берегу залива.</string>
+    <string name="park_2_name">Летний сад</string>
+    <string name="park_2_desc">Старейший сад города с коллекцией мраморных скульптур и изящной решеткой.</string>
+    <string name="park_3_name">Приморский парк Победы</string>
+    <string name="park_3_desc">Огромный парк на Крестовском острове, где находится Диво-Остров.</string>
+    <string name="park_4_name">Парк Александрия</string>
+    <string name="park_4_desc">Уютный пейзажный парк, бывшая семейная резиденция императоров.</string>
+
+
+    <string name="mus_1_name">Эрмитаж</string>
+    <string name="mus_1_desc">Главный музей страны с огромной коллекцией мирового искусства.</string>
+    <string name="mus_2_name">Русский музей</string>
+    <string name="mus_2_desc">Крупнейшее в мире собрание российского изобразительного искусства.</string>
+    <string name="mus_3_name">Кунсткамера</string>
+    <string name="mus_3_desc">Кабинет редкостей, основанный Петром I — первый музей России.</string>
+    <string name="mus_4_name">Исаакиевский собор</string>
+    <string name="mus_4_desc">Крупнейший православный храм Петербурга и музей с потрясающей колоннадой.</string>
+
+
+    <string name="food_1_name">Пышечная на Желябова</string>
+    <string name="food_1_desc">То самое легендарное место с пышками в сахарной пудре и кофе из бака.</string>
+    <string name="food_2_name">Кафе Зингер</string>
+    <string name="food_2_desc">Изысканное кафе в Доме Книги с лучшим видом на Казанский собор.</string>
+    <string name="food_3_name">Теремок</string>
+    <string name="food_3_desc">Популярная сеть ресторанов русской кухни: блины, каши и морсы.</string>
+    <string name="food_4_name">Север-Метрополь</string>
+    <string name="food_4_desc">Старейшая кондитерская города, знаменитая своими пирожными и тортами.</string>
+
+
+    <string name="about_title">О приложении</string>
+    <string name="about_app_description">Путеводитель по самым интересным местам Санкт-Петербурга.</string>
+    <string name="about_version">Версия 1.0</string>
+    <string name="about_developer">Разработчик: Агшин Сейидов</string>
+
+
+    <string name="settings_notifications">Включить уведомления</string>
+    <string name="settings_dark_theme">Темная тема</string>
+    <string name="settings_language">Язык приложения</string>
+    <string name="settings_save">Сохранить изменения</string>
+</resources>
